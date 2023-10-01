@@ -7,6 +7,6 @@ The Mun Architecture™ research repository.
  - [ ] Find new ways to permacomputing
  - [ ] Research methods to software preservation
  - [ ] BUILD SMOL COMPUTERS and ecosystems
- - [ ] Be happy and have fun  
- "Stupid is better" ~ myself
+ - [ ] Be happy and have fun
 
+"Stupid is better" ~ myself
